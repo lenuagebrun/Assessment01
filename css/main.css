@@ -1,0 +1,27 @@
+body {
+    background: beige;
+    text-align: center;
+    font-size: 40px;
+}
+
+button {
+    border-radius: 4px;
+    color: orange;
+    background: teal;
+    height: 50px;
+    width: 75px;
+    font-size: 25px;
+}
+
+input {
+    border-radius: 4px;
+    border: solid teal 5px;
+    width: 150px;
+    height: 40px;
+    background: beige;
+}
+
+button:hover {
+    color: teal;
+    background: orange;
+}
